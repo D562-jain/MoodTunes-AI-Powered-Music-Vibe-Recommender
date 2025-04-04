@@ -14,7 +14,8 @@ Features
 
 ✅ Streamlit-Powered UI – Beautiful and lightweight web app.
 
-🎬 Demo
+🖼️ MoodTunes In Action
+![MoodTunes Screenshot]
 
 📦 Dependencies (Inside requirements.txt)
 
