@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Streamlit
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# VS Code settings
+.vscode/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Jupyter Notebooks (if any)
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# Python crash files
+*.pid
+
+# Test/coverage outputs
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.cache
+
+# Others
+*.sqlite3
