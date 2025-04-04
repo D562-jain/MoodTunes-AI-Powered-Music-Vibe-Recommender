@@ -15,7 +15,11 @@ Features
 ✅ Streamlit-Powered UI – Beautiful and lightweight web app.
 
 🖼️ MoodTunes In Action
-![MoodTunes Screenshot]
+
+![MoodTunes Screenshot](https://github.com/D562-jain/MoodTunes-AI-Powered-Music-Vibe-Recommender/blob/main/screenshot1.png)
+
+![MoodTunes Screenshot](
+
 
 📦 Dependencies (Inside requirements.txt)
 
